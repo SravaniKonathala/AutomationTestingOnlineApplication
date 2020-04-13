@@ -1,0 +1,13 @@
+{
+  "firstName" : "Sravani",
+  "lastName"  : "Kandregula",
+  "email" : "sravanibtech07@gmail.com",
+  "confEmail" : "sravanibtech07@gmail.com",
+  "password" : "Jayathasiri24",
+  "confPassword" : "Jayathasiri24",
+  "address" : {
+    "line1" : "98, CityView,Axon PLace",
+    "city" : "Essex, Ilford",
+    "country" : "United Kingdom"
+  }
+}
